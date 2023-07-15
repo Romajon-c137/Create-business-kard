@@ -7,7 +7,6 @@ import CopyButton from './components/CopyText';
 import Input from './components/Input';
 import QRCode from 'qrcode-generator';
 import { Button } from '@mui/material';
-import BackUP from './components/BackUP';
 
 
 function generateQRCode(value, size, bgColor, fgColor, padding) {
